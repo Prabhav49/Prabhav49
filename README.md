@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/prabhav_49](https://linktr.ee/prabhav_49)
+- 👨‍💻 All of my links are available at [https://linktr.ee/prabhav_49](https://linktr.ee/prabhav_49)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JemQN94RrraBksRvshUxmVLje3TL2ojh/view?usp=sharing](https://drive.google.com/file/d/1JemQN94RrraBksRvshUxmVLje3TL2ojh/view?usp=sharing)
 
