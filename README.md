@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/prabhav_49](https://linktr.ee/prabhav_49)
 
+- 📫 How to reach me **iamprabhav23@gmail.com**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JemQN94RrraBksRvshUxmVLje3TL2ojh/view?usp=sharing](https://drive.google.com/file/d/1JemQN94RrraBksRvshUxmVLje3TL2ojh/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
