@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **iamprabhav23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AVaXaJ-FRz9sI0jtyyDIx0k0nYoQai5V/view?usp=sharing](https://drive.google.com/file/d/1AVaXaJ-FRz9sI0jtyyDIx0k0nYoQai5V/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lMyzjdLurNrETLBy-EG0ofFUneuD-_F0/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
