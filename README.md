@@ -3,17 +3,15 @@
 <h1 align="center">Hi 👋, I'm Prabhav Pandey</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<img align="right" atl="coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif">
+<img align="right" atl="coding" width="400" src="https://user-images.githubusercontent.com/110699580/190907521-885161ab-c2ce-43ef-bffe-590863ff8f96.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhav49&label=Profile%20views&color=0e75b6&style=flat" alt="prabhav49" /> </p>
-
-- 🌱 I’m currently learning **React JS, MongoDB**
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/prabhav_49](https://linktr.ee/prabhav_49)
 
 - 📫 How to reach me **iamprabhav23@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lMyzjdLurNrETLBy-EG0ofFUneuD-_F0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11PV2VuN9kUonEI1g1bwzX7MFDeBGPFRc/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Funny**
 
