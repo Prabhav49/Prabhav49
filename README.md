@@ -1,4 +1,4 @@
-![logo](https://github.com/Prabhav49/Prabhav49/assets/100718486/7b5c3795-c874-4caf-adae-865ad3929d6f)
+![logo](https://github.com/Prabhav49/Prabhav49/blob/main/new.png)
 
 <h1 align="center">Hi 👋, I'm Prabhav Pandey</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
